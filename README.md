@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Uday Raj Gupta
-**YouTube :  YP Logix  {Students, College  and Computer Science Engineering Related Informations}**
+**YouTube :  YP Logix  {Students, College  and Computer Science Engineering Related Informations}** <br>
 🎓 **B.Tech CSE  Undergraduate Student** | 💻 Passionate about Web Development & Technology  
 🚀 Currently exploring **HTML, CSS, JavaScript, and Git/GitHub**
 
